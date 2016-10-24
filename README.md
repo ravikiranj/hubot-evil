@@ -25,7 +25,3 @@ user1>> hubot evil 2+2
 hubot>> Command = 2+2
 hubot>> 4
 ```
-
-## NPM Module
-
-https://www.npmjs.com/package/hubot-evil
